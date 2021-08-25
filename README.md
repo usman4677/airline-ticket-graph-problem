@@ -1,6 +1,9 @@
 # Airline cheap Ticket Graph Problem
 This repo contains the solution to the Airline Ticket cheapest cost problem.
 Please install gem rgl
+AND just run
+"ruby air_line.rb"
+
 
 ###########################################################################################
 ###########################################################################################
